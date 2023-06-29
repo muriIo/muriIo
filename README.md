@@ -38,7 +38,7 @@
     - :telescope: I'm contributing to frontend and backend workflows for building web applications.<br>
     - :seedling: Exploring backend related informations to become specialist in the field.<br>
     - :zap: In my free time, I try to decompress my routine with some hobbies and projects unrelated to my current job.<br>
-    - :mailbox:How to reach me: [![LinkedinBadge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/murilomendescruz<br>
+    - :mailbox:How to reach me: [![LinkedinBadge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/murilomendescruz)<br>
   </div>
 
   <hr style="border: 1px solid #DBDDE5" />
