@@ -33,9 +33,9 @@
     <span>I'm a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.</span>
   </div>
   <div>
-    - :telescope: I'm contributing to frontend and backend workflows for building web applications.<br>
-    - :seedling: Exploring backend related informations to become specialist in the field.<br>
-    - :zap: In my free time, I try to decompress my routine with some hobbies and projects unrelated to my current job.<br>
+    - :telescope: I'm contributing to frontend and backend workflows for building web applications.</br>
+    - :seedling: Exploring backend related informations to become specialist in the field.</br>
+    - :zap: In my free time, I try to decompress my routine with some hobbies and projects unrelated to my current job.</br>
       - :mailbox:How to reach me:
       <a href="https://www.linkedin.com/in/murilomendescruz" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
@@ -58,22 +58,21 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nestjs" alt="Nestjs" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
   </div>
-
+  </br>
   <div>
     :eyes: Languages and Tools Enthusiastic :
   </div>
-
+  </br>
   <div style="margin-top: 2rem;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   </div>
-
+  </br>
   <div style="margin-top: 2rem;">
     :fire: My Stats :
   </div>
+  </br>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muriIo&theme=dark&border_radius=5&exclude_days=Sun&card_width=500&background=50%2C0624EB%2C000000)](https://git.io/streak-stats)
 
-  <div>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muriIo&theme=dark&border_radius=5&exclude_days=Sun&card_width=500&background=50%2C0624EB%2C000000)](https://git.io/streak-stats)
-  </div>
 
 </main>
