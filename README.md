@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center" style="margin-top: 1rem;">
-  <a href="https://www.linkedin.com/in/murilomendescruz">
+  <a href="https://www.linkedin.com/in/murilomendescruz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:murilomecr@gmail.com">
+  <a href="mailto:murilomecr@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://twitter.com/kudosmurilo">
+  <a href="https://twitter.com/kudosmurilo" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
