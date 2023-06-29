@@ -50,7 +50,7 @@
     :hammer_and_wrench: Languages and Tools :
   </div>
   </br>
-  <div style="margin-top: 2rem;">
+  <div style="margin-top: 2rem;" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -64,7 +64,7 @@
     :eyes: Languages and Tools Enthusiastic :
   </div>
   </br>
-  <div style="margin-top: 2rem;">
+  <div style="margin-top: 2rem;" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   </div>
@@ -73,7 +73,12 @@
     :fire: My Stats :
   </div>
   </br>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muriIo&theme=dark&border_radius=5&exclude_days=Sun&card_width=500&background=50%2C0624EB%2C000000)](https://git.io/streak-stats)]
+  <div align="center">
+    <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=muriIo&theme=dark&border_radius=5&exclude_days=Sun&card_width=500&background=50%2C0624EB%2C000000"
+        alt="My Stats" />
+    </a>
+  </div>
 
 
 </main>
