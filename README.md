@@ -73,7 +73,7 @@
     :fire: My Stats :
   </div>
   </br>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muriIo&theme=dark&border_radius=5&exclude_days=Sun&card_width=500&background=50%2C0624EB%2C000000)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muriIo&theme=dark&border_radius=5&exclude_days=Sun&card_width=500&background=50%2C0624EB%2C000000)](https://git.io/streak-stats)]
 
 
 </main>
