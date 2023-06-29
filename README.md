@@ -30,7 +30,7 @@
     :man_technologist: About Me :
   </div>
   <div>
-    <span>I'm an Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.</span>
+    <span>I'm a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.</span>
   </div>
   <div>
     - :telescope: I'm contributing to frontend and backend workflows for building web applications.<br>
