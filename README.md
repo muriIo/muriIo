@@ -35,10 +35,10 @@
     <span>I'm an Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.</span>
   </div>
   <div>
-    - :telescope: I'm contributing to frontend and backend workflows for building web applications.
-    - :seedling: Exploring backend related informations to become specialist in the field.
-    - :zap: In my free time, I try to decompress my routine with some hobbies and projects unrelated to my current job.
-    - :mailbox:How to reach me: [![LinkedinBadge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/murilomendescruz
+    - :telescope: I'm contributing to frontend and backend workflows for building web applications.<br>
+    - :seedling: Exploring backend related informations to become specialist in the field.<br>
+    - :zap: In my free time, I try to decompress my routine with some hobbies and projects unrelated to my current job.<br>
+    - :mailbox:How to reach me: [![LinkedinBadge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]https://www.linkedin.com/in/murilomendescruz<br>
   </div>
 
   <hr style="border: 1px solid #DBDDE5" />
@@ -47,7 +47,7 @@
     ### :hammer_and_wrench: Languages and Tools :
   </div>
 
-  <div style="margin-top: 1rem;">
+  <div style="margin-top: 2rem;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -61,7 +61,7 @@
     ### :eyes: Languages and Tools Enthusiastic :
   </div>
 
-  <div style="margin-top: 1rem;">
+  <div style="margin-top: 2rem;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   </div>
