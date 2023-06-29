@@ -68,6 +68,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   </div>
 
+  <div>
+    :fire: My Stats :
+  </div>
+
+  <div>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muriIo&theme=dark&border_radius=5&exclude_days=Sun&card_width=500&background=50%2C0624EB%2C000000)](https://git.io/streak-stats)
+  </div>
+
 </main>
 
 
