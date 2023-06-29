@@ -29,7 +29,7 @@
 </header>
 <main>
   <div>
-    ### :man_technologist: About Me :
+    :man_technologist: About Me :
   </div>
   <div>
     <span>I'm an Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.</span>
@@ -48,7 +48,7 @@
   <hr style="border: 1px solid #DBDDE5" />
 
   <div>
-    ### :hammer_and_wrench: Languages and Tools :
+    :hammer_and_wrench: Languages and Tools :
   </div>
 
   <div style="margin-top: 2rem;">
@@ -62,7 +62,7 @@
   </div>
 
   <div>
-    ### :eyes: Languages and Tools Enthusiastic :
+    :eyes: Languages and Tools Enthusiastic :
   </div>
 
   <div style="margin-top: 2rem;">
