@@ -29,6 +29,7 @@
   <div>
     :man_technologist: About Me :
   </div>
+  </br>
   <div>
     <span>I'm a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.</span>
   </div>
@@ -48,7 +49,7 @@
   <div>
     :hammer_and_wrench: Languages and Tools :
   </div>
-
+  </br>
   <div style="margin-top: 2rem;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
